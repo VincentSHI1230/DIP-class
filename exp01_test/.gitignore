@@ -2,3 +2,8 @@
 data/**
 !data/**/
 !data/**/README*
+
+# 忽略工作输出 (但不忽略文件夹结构)
+work/**
+!work/**/
+!work/**/README*
